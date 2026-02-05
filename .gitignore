@@ -1,0 +1,13 @@
+# typical rails ignore
+/.bundle/
+/log/
+/tmp/
+.DS_Store
+/vendor/bundle/
+/public/system/
+/public/uploads/
+/db/*.sqlite3
+/db/*.sqlite3-journal
+/public/packs/
+/public/packs-test/
+/public/assets/
