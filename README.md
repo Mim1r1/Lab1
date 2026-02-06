@@ -1,1 +1,1 @@
-# Lab1
+Repository created for practical work. Initial README.
